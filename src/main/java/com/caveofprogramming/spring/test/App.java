@@ -29,11 +29,11 @@ public class App {
 //			Offer offer3 = new Offer("Kara", "kara@email.com", "Coding Java");
 //			
 //			if(offersDao.create(offer2)) {
-//				System.out.println("Creted offer object");
+//				System.out.println("Created offer object");
 //			}
 //			
 //			if(offersDao.create(offer3)) {
-//				System.out.println("Creted offer object");
+//				System.out.println("Created offer object");
 //			}
 			
 			List<Offer> offersLs = new ArrayList<Offer>();
